@@ -61,3 +61,5 @@ f485412038002eea5be45fa5ae68ab8e
 471418c0eb300bc714ce54f07666c377
 #Ransomware Team UnderGround
 059175be5681a633190cd9631e2975f6
+#Ransomware ElDorado 8Julio2024
+9d1fd92ea00c6eef88076dd55cad611e
