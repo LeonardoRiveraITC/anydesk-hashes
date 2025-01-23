@@ -20,3 +20,6 @@ d420da72aa13c515d2f9cddf695ee8f48b1950fe
 fb4ad5d21f0d8c6755eb4addba0ac288bd2574b6
 #RansomwareElDorado8Julio2024
 a108c142dba8c9af5236ec64fe5a1ce04c54a3fb
+#Ransom FunkSec 23/Enero/2025
+f78a6b537244b544dc75a07bdbc7eda6ca15699e
+ff96db4b937971ca2d60e785ff9f706a50e51de4
